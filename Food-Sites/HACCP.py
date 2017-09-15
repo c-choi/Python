@@ -1,78 +1,78 @@
-from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver import ActionChains
+from selenium.webdriver.support.ui  import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
+from bs4 import BeautifulSoup
+from pprint import pprint
 
 comp_name = input("회사명을 입력해주세요: ")
-# keyword = input("검색어를 입력해주세요: ")
-
+keyword = input("검색어를 입력해주세요: ")
 url = 'http://www.foodsafetykorea.go.kr/portal/specialinfo/searchInfoHaccpCompany.do?menu_grp=MENU_NEW04&menu_no=2816'
 
 driver = webdriver.Chrome('/Users/cloudy/anaconda/lib/python3.6/site-packages/selenium/chromedriver')
 driver.get(url)
 
-driver.implicitly_wait(3)
+driver.implicitly_wait(1)
+button = '//*[@id="wrap"]/main/section/div[2]/div[1]/div/fieldset/ul/li[5]/a'
+WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="listFrame"]/tr[1]/td[1]')))
 
-# if comp_name != "":
-var = comp_name
-driver.find_element_by_xpath('//*[@id="search_type"]').send_keys('01')
-    # var = keyword
-    # driver.find_element_by_name('search_type').send_keys('02')
+if comp_name != "":
+    Select(driver.find_element_by_xpath('//*[@id="search_type"]')).select_by_visible_text('업체명')
+    driver.find_element_by_xpath('//*[@id="search_keyword"]').send_keys(comp_name)
+else:
+    Select(driver.find_element_by_xpath('//*[@id="search_type"]')).select_by_visible_text('품목')
+    driver.find_element_by_xpath('//*[@id="search_keyword"]').send_keys(keyword)
 
-driver.find_element_by_xpath('//*[@id="search_keyword"]').send_keys(comp_name)
-driver.find_element_by_xpath('//*[@id="wrap"]/main/section/div[2]/div[1]/div/fieldset/ul/li[5]/a').click()
 
-driver.implicitly_wait(3)
+try:
+    driver.find_element_by_xpath(button).click()
+except:
+    WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="listFrame"]/tr[1]/td[1]')))
+    driver.find_element_by_xpath(button).click()
 
-# html = driver.page_source
-# soup = BeautifulSoup(html, 'html.parser')
-# lists = soup.find_all("table", {"class": "table_view2"})
-# # try:
-# data = lists[0].find_all("td", {"class": "ellipsis"})
-# dic = {}
-# for i in range(len(data)):
-#     text = data[i ].text.strip()
-#     # try:
-#     #     dic[title].append(text)
-#     # except:
-#     #     dic[title] = text
-#     print(text)
-# print("-" * 100)
+driver.implicitly_wait(5)
+WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.XPATH, '/html/body/div[1]')))
 
-# except:
-#     print("0 results")
-# original = driver.current_window_handle
-# original_name = original.title()
-# window_num = len(driver.window_handles)
-#
-# driver.find_element_by_name('login_id').send_keys('cchoi1989')
-# driver.find_element_by_name('login_password').send_keys("CcPs4141")
-# driver.find_element_by_xpath('//*[@id="content"]/div[1]/form/fieldset/div/input').click()
-#
-# for i in range(1, window_num + 1):
-#     try:
-#         driver.switch_to.window(driver.window_handles[i])
-#         current_window = driver.window_handles[i]
-#         print(current_window.upper() + " " + original_name.upper())
-#         if current_window.upper() != original_name.upper():
-#             driver.close()
-#     except:
-#         continue
-#
-# driver.switch_to.window(original)
-#
-# wait = WebDriverWait(driver, 10)
-# actions = ActionChains(driver)
-# menu = driver.find_element_by_xpath('//*[@id="header"]/div/div[1]/ul/li[1]/div/a/img')
-# actions.move_to_element(menu).perform()
-# wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, '#header > div > div.menu > ul > li.m1 > div > a')))
-# driver.find_element_by_xpath('//*[@id="header"]/div/div[1]/ul/li[1]/ul/li[1]/a').click()
-#
-# driver.implicitly_wait(3)
-# cpname = input('회사명을 입력해주세요\n')
-# # cpname = "네모아이이지"
-# driver.find_element_by_xpath('//*[@id="searchTxt"]').send_keys(cpname)
-# driver.find_element_by_xpath('//*[@id="container"]/div/div/div[2]/fieldset/div[2]/p/input').click()
+data = EC.visibility_of_element_located((By.XPATH, '/html/body/div[1]'))
+if data:
+    Select(driver.find_element_by_xpath('//*[@id="show_cnt"]')).select_by_visible_text('50개씩')
+
+
+def run(p):
+    if p != 2:
+        driver.find_element_by_xpath('//*[@id="wrap"]/main/section/div[2]/div[2]/div/ul/li[' + str(p) + ']').click()
+
+    WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.XPATH, '/html/body/div[1]')))
+
+    html = driver.page_source
+    soup = BeautifulSoup(html, 'html.parser')
+    table = soup.find("table", {"id": "board"})
+    # header = table.find("thead")
+    # headrow = header.find_all("th")
+    tbody = table.find("tbody", {"id": "listFrame"})
+    tablerow = tbody.find_all("tr")
+
+    data = []
+
+    for t in tablerow:
+        td = t.find_all("td")
+        row = []
+        for r in td:
+            row.append(r.text)
+        data.append(row)
+        print(row[2])
+# 업체 전체 정보
+# if data:
+#     pprint(data)
+# else:
+#     print("no result")
+#     driver.quit()
+
+
+for p in range(2, 10):
+    if data:
+        run(p)
+    else:
+        print("no more result")
+
