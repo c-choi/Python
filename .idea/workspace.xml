@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7708f8d-abcb-4f5a-b9e1-86609c8b92f9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Food-Sites/multiSelenium.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Searcl/2017-08-01/인공지능/crawled.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Searcl/2017-08-01/인공지능/queue.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Searcl/domain.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Searcl/general.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Searcl/konlpy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Searcl/link_finder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Searcl/naver_api.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Searcl/searcl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Searcl/spider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/threading_selenium.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/random.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Food-Sites/HACCP.py" afterPath="$PROJECT_DIR$/Food-Sites/HACCP.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Food-Sites/atfis.py" afterPath="$PROJECT_DIR$/Food-Sites/atfis.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,18 +21,18 @@
       <file leaf-file-name="foodb2b.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Food-Sites/foodb2b.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+            <state relative-caret-position="188">
+              <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="atfis.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="atfis.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Food-Sites/atfis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -53,25 +40,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HACCP.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HACCP.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Food-Sites/HACCP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="458">
+              <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multiSelenium.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Food-Sites/multiSelenium.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="51" column="22" lean-forward="false" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,8 +165,8 @@
         <option value="$PROJECT_DIR$/practice/threading_selenium.py" />
         <option value="$PROJECT_DIR$/Food-Sites/multiSelenium.py" />
         <option value="$PROJECT_DIR$/rawFilter.py" />
-        <option value="$PROJECT_DIR$/Food-Sites/HACCP.py" />
         <option value="$PROJECT_DIR$/Food-Sites/atfis.py" />
+        <option value="$PROJECT_DIR$/Food-Sites/HACCP.py" />
       </list>
     </option>
   </component>
@@ -275,7 +250,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches">
         <subPane>
           <expand>
@@ -287,6 +261,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.atfis">
+  <component name="RunManager" selected="Python.login">
     <configuration name="HACCP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -504,11 +479,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.atfis" />
-        <item index="1" class="java.lang.String" itemvalue="Python.HACCP" />
-        <item index="2" class="java.lang.String" itemvalue="Python.foodb2b" />
-        <item index="3" class="java.lang.String" itemvalue="Python.threading_selenium" />
-        <item index="4" class="java.lang.String" itemvalue="Python.login" />
+        <item index="0" class="java.lang.String" itemvalue="Python.login" />
+        <item index="1" class="java.lang.String" itemvalue="Python.atfis" />
+        <item index="2" class="java.lang.String" itemvalue="Python.HACCP" />
+        <item index="3" class="java.lang.String" itemvalue="Python.foodb2b" />
+        <item index="4" class="java.lang.String" itemvalue="Python.threading_selenium" />
       </list>
     </recent_temporary>
   </component>
@@ -532,6 +507,14 @@
       <option name="presentableId" value="Default" />
       <updated>1497998293966</updated>
     </task>
+    <task id="LOCAL-00001" summary="upgraded HACCP &amp; arfis">
+      <created>1505462854504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505462854504</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -557,12 +540,12 @@
   <component name="ToolWindowManager">
     <frame x="838" y="23" width="838" height="1027" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32160804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32673267" sideWeight="0.49497488" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.51005024" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.4798995" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.46984926" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1430143" sideWeight="0.2964824" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.5201005" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.5301508" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32453245" sideWeight="0.46859297" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -635,7 +618,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="upgraded HACCP &amp; arfis" />
+    <option name="LAST_COMMIT_MESSAGE" value="upgraded HACCP &amp; arfis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -955,19 +939,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rawFilter.py" />
+    <entry file="file://$PROJECT_DIR$/Food-Sites/atfis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Food-Sites/foodb2b.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+        <state relative-caret-position="188">
+          <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rawFilter.py" />
     <entry file="file://$PROJECT_DIR$/Food-Sites/multiSelenium.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="51" column="22" lean-forward="false" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        <state relative-caret-position="308">
+          <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -976,20 +970,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Food-Sites/HACCP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="458">
+          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Food-Sites/atfis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>

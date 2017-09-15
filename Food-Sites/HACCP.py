@@ -69,7 +69,7 @@ def run(p):
 #     print("no result")
 #     driver.quit()
 
-
+#TODO: 항목 개수 센 뒤 양이 적으면 루프 중지
 for p in range(2, 10):
     if data:
         run(p)
