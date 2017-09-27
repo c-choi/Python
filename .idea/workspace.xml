@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a7708f8d-abcb-4f5a-b9e1-86609c8b92f9" name="Default" comment="Integration">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NS_search/naver_search.py" afterPath="$PROJECT_DIR$/NS_search/naver_search.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +40,8 @@
       <file leaf-file-name="naver_search.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NS_search/naver_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="375">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,20 +50,26 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            <state relative-caret-position="405">
+              <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
               <folding>
-                <marker date="1506487082000" expanded="true" signature="64382:64399" ph="..." />
-                <marker date="1506487082000" expanded="true" signature="64382:64417" ph="..." />
-                <marker date="1506487082000" expanded="true" signature="64382:64430" ph="..." />
-                <marker date="1506487082000" expanded="true" signature="64382:64445" ph="..." />
-                <marker date="1506487082000" expanded="true" signature="64480:64835" ph="..." />
-                <marker date="1506487082000" expanded="true" signature="64493:64820" ph="..." />
-                <marker date="1506487082000" expanded="true" signature="64541:64806" ph="..." />
-                <marker date="1506487082000" expanded="true" signature="64560:64791" ph="..." />
-                <marker date="1506487082000" expanded="true" signature="64593:64771" ph="..." />
-                <marker date="1506487082000" expanded="true" signature="64633:64737" ph="..." />
-                <marker date="1506487082000" expanded="true" signature="64654:64715" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="91266:91283" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="91266:91301" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="91266:91314" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="91266:92145" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="91381:91722" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="91443:91709" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="91488:91691" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="91788:92130" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="91850:92117" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="91896:92099" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="92180:92535" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="92193:92520" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="92241:92506" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="92260:92491" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="92293:92471" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="92333:92437" ph="..." />
+                <marker date="1506493351000" expanded="true" signature="92354:92415" ph="..." />
               </folding>
             </state>
           </provider>
@@ -153,6 +158,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -256,17 +262,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,12 +310,23 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/cloudy/Desktop/programming/Python/Food-Sites/atfis.py" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/CompanySearch/NShop.py" />
   </component>
@@ -550,7 +556,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -588,7 +594,14 @@
       <option name="project" value="LOCAL" />
       <updated>1506486716392</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Integration">
+      <created>1506487093810</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1506487093810</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -613,29 +626,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="838" y="23" width="838" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40954775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44095477" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32673267" sideWeight="0.4849246" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1430143" sideWeight="0.7035176" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.44849247" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.629397" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.37060302" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33223322" sideWeight="0.2964824" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33223322" sideWeight="0.7035176" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32453245" sideWeight="0.45728642" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933994" sideWeight="0.4849246" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914573" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295562" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33223322" sideWeight="0.7035176" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295562" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295562" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.49497488" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933994" sideWeight="0.4849246" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295562" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1033,20 +1045,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        <state relative-caret-position="405">
+          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
           <folding>
-            <marker date="1506487082000" expanded="true" signature="64382:64399" ph="..." />
-            <marker date="1506487082000" expanded="true" signature="64382:64417" ph="..." />
-            <marker date="1506487082000" expanded="true" signature="64382:64430" ph="..." />
-            <marker date="1506487082000" expanded="true" signature="64382:64445" ph="..." />
-            <marker date="1506487082000" expanded="true" signature="64480:64835" ph="..." />
-            <marker date="1506487082000" expanded="true" signature="64493:64820" ph="..." />
-            <marker date="1506487082000" expanded="true" signature="64541:64806" ph="..." />
-            <marker date="1506487082000" expanded="true" signature="64560:64791" ph="..." />
-            <marker date="1506487082000" expanded="true" signature="64593:64771" ph="..." />
-            <marker date="1506487082000" expanded="true" signature="64633:64737" ph="..." />
-            <marker date="1506487082000" expanded="true" signature="64654:64715" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="91266:91283" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="91266:91301" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="91266:91314" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="91266:92145" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="91381:91722" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="91443:91709" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="91488:91691" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="91788:92130" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="91850:92117" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="91896:92099" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="92180:92535" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="92193:92520" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="92241:92506" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="92260:92491" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="92293:92471" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="92333:92437" ph="..." />
+            <marker date="1506493351000" expanded="true" signature="92354:92415" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1061,8 +1079,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NS_search/naver_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="375">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
