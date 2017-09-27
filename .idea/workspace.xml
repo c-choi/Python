@@ -4,9 +4,12 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7708f8d-abcb-4f5a-b9e1-86609c8b92f9" name="Default" comment="">
+    <list default="true" id="a7708f8d-abcb-4f5a-b9e1-86609c8b92f9" name="Default" comment="upgraded HACCP &amp; arfis&#10;&#10;TODO 추가">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Food-Sites/HACCP.py" afterPath="$PROJECT_DIR$/Food-Sites/HACCP.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Food-Sites/atfis.py" afterPath="$PROJECT_DIR$/Food-Sites/atfis.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Food-Sites/foodb2b.py" afterPath="$PROJECT_DIR$/Food-Sites/foodb2b.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NS_search/naver_shoping.py" afterPath="$PROJECT_DIR$/NS_search/naver_shoping.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +24,28 @@
       <file leaf-file-name="foodb2b.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Food-Sites/foodb2b.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="23" />
+            <state relative-caret-position="765">
+              <caret line="57" column="14" lean-forward="false" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="naver_shoping.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NS_search/naver_shoping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="naver_search.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NS_search/naver_search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -31,7 +54,7 @@
       <file leaf-file-name="atfis.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Food-Sites/atfis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="225">
               <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -40,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HACCP.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HACCP.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Food-Sites/HACCP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+            <state relative-caret-position="750">
+              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -116,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../TensorFlow-Tutorials-master/10 - DQN/agent.py" />
         <option value="$PROJECT_DIR$/naver_search/naver_search.py" />
         <option value="$PROJECT_DIR$/naver_search/고춧가루 생산/queue.txt" />
         <option value="$PROJECT_DIR$/AT-scrap/crawler.py" />
@@ -134,7 +156,6 @@
         <option value="$PROJECT_DIR$/company_info/crawler.py" />
         <option value="$PROJECT_DIR$/NS_list_search/NShop.py" />
         <option value="$PROJECT_DIR$/NS_list_search/N_search.py" />
-        <option value="$PROJECT_DIR$/NS_search/naver_shoping.py" />
         <option value="$PROJECT_DIR$/Foodmerce/crawler.py" />
         <option value="$PROJECT_DIR$/Foodmerce/foodselenium.py" />
         <option value="$PROJECT_DIR$/company_info/auto_mail.py" />
@@ -157,16 +178,18 @@
         <option value="$PROJECT_DIR$/mail-sender-master/email_template10.txt" />
         <option value="$PROJECT_DIR$/mail-sender-master/sendmail.py" />
         <option value="$PROJECT_DIR$/../../dev/firebase/python/dartAPI/dartAPI.py" />
-        <option value="$PROJECT_DIR$/Food-Sites/foodb2b.py" />
         <option value="$PROJECT_DIR$/Food-Sites/NBG/2017-09-08/전류.csv" />
         <option value="$PROJECT_DIR$/Food-Sites/NBG/2017-09-08/atfis.py" />
-        <option value="$PROJECT_DIR$/company_info/login.py" />
         <option value="$PROJECT_DIR$/practice/random.py" />
         <option value="$PROJECT_DIR$/practice/threading_selenium.py" />
         <option value="$PROJECT_DIR$/Food-Sites/multiSelenium.py" />
         <option value="$PROJECT_DIR$/rawFilter.py" />
+        <option value="$PROJECT_DIR$/company_info/login.py" />
         <option value="$PROJECT_DIR$/Food-Sites/atfis.py" />
+        <option value="$PROJECT_DIR$/Food-Sites/foodb2b.py" />
+        <option value="$PROJECT_DIR$/NS_search/naver_shoping.py" />
         <option value="$PROJECT_DIR$/Food-Sites/HACCP.py" />
+        <option value="$PROJECT_DIR$/NS_search/naver_site.py" />
       </list>
     </option>
   </component>
@@ -214,6 +237,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,6 +264,17 @@
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Food-Sites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="NS_search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="NS_search" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-09-21" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
@@ -250,41 +295,30 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
-    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/cloudy/Desktop/programming/Python/Food-Sites/atfis.py" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/CompanySearch/NShop.py" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Food-Sites" />
-      <recent name="$PROJECT_DIR$/../NEMO/Python" />
-      <recent name="$PROJECT_DIR$/CompanySearch/NBG" />
-      <recent name="$PROJECT_DIR$/CompanySearch" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/parser-template" />
       <recent name="$PROJECT_DIR$/CompanySearch" />
       <recent name="$PROJECT_DIR$/Searcl/WORKSPACE" />
       <recent name="$PROJECT_DIR$/Searcl" />
       <recent name="$PROJECT_DIR$/naver_search" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Food-Sites" />
+      <recent name="$PROJECT_DIR$/../NEMO/Python" />
+      <recent name="$PROJECT_DIR$/CompanySearch/NBG" />
+      <recent name="$PROJECT_DIR$/CompanySearch" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -299,24 +333,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.login">
-    <configuration name="HACCP" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Food-Sites" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Food-Sites/HACCP.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.naver_shoping">
     <configuration default="true" type="ApexTest" factoryName="Apex Test">
       <method />
     </configuration>
@@ -452,19 +469,36 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="threading_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="naver_shoping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NS_search" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/threading_selenium.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NS_search/naver_shoping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="naver_site" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NS_search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NS_search/naver_site.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -472,18 +506,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.google_search" />
       <item index="1" class="java.lang.String" itemvalue="Python.foodb2b" />
-      <item index="2" class="java.lang.String" itemvalue="Python.login" />
-      <item index="3" class="java.lang.String" itemvalue="Python.atfis" />
-      <item index="4" class="java.lang.String" itemvalue="Python.HACCP" />
-      <item index="5" class="java.lang.String" itemvalue="Python.threading_selenium" />
+      <item index="2" class="java.lang.String" itemvalue="Python.atfis" />
+      <item index="3" class="java.lang.String" itemvalue="Python.naver_shoping" />
+      <item index="4" class="java.lang.String" itemvalue="Python.naver_site" />
+      <item index="5" class="java.lang.String" itemvalue="Python.login" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.login" />
-        <item index="1" class="java.lang.String" itemvalue="Python.atfis" />
-        <item index="2" class="java.lang.String" itemvalue="Python.HACCP" />
+        <item index="0" class="java.lang.String" itemvalue="Python.naver_shoping" />
+        <item index="1" class="java.lang.String" itemvalue="Python.login" />
+        <item index="2" class="java.lang.String" itemvalue="Python.naver_site" />
         <item index="3" class="java.lang.String" itemvalue="Python.foodb2b" />
-        <item index="4" class="java.lang.String" itemvalue="Python.threading_selenium" />
+        <item index="4" class="java.lang.String" itemvalue="Python.atfis" />
       </list>
     </recent_temporary>
   </component>
@@ -514,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505462854504</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upgraded HACCP &amp; arfis&#10;&#10;TODO 추가">
+      <created>1505466238719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505466238720</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -540,27 +581,27 @@
   <component name="ToolWindowManager">
     <frame x="838" y="23" width="838" height="1027" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32673267" sideWeight="0.49497488" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.51005024" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.46984926" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1430143" sideWeight="0.2964824" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.5301508" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40954775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32673267" sideWeight="0.4849246" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1430143" sideWeight="0.7035176" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.44849247" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33223322" sideWeight="0.2964824" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32453245" sideWeight="0.46859297" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32453245" sideWeight="0.45728642" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933994" sideWeight="0.4849246" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914573" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295562" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33223322" sideWeight="0.7035176" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295562" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295562" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.49497488" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933994" sideWeight="0.4849246" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295562" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -619,7 +660,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upgraded HACCP &amp; arfis" />
-    <option name="LAST_COMMIT_MESSAGE" value="upgraded HACCP &amp; arfis" />
+    <MESSAGE value="upgraded HACCP &amp; arfis&#10;&#10;TODO 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="upgraded HACCP &amp; arfis&#10;&#10;TODO 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -635,23 +677,15 @@
           <properties exception="BaseException" />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="37" />
+      <option name="time" value="39" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mail-sender-master/2017-09-06 09:04:28.389728.txt" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/smtplib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14025">
           <caret line="946" column="66" lean-forward="false" selection-start-line="946" selection-start-column="61" selection-end-line="946" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NS_search/naver_shoping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -769,13 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NS_search/naver_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="40" column="47" lean-forward="false" selection-start-line="40" selection-start-column="47" selection-end-line="41" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/company_info/NBG/2017-09-01/2017-09-01.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -889,13 +916,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/company_info/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/sqlite3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -932,17 +952,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/wait.py">
+    <entry file="file://$PROJECT_DIR$/rawFilter.py" />
+    <entry file="file://$PROJECT_DIR$/Food-Sites/multiSelenium.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        <state relative-caret-position="308">
+          <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rawFilter.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="94" column="21" lean-forward="true" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food-Sites/HACCP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Food-Sites/atfis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="225">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -952,29 +989,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Food-Sites/foodb2b.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="23" />
+        <state relative-caret-position="765">
+          <caret line="57" column="14" lean-forward="false" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Food-Sites/multiSelenium.py">
+    <entry file="file://$PROJECT_DIR$/NS_search/naver_shoping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Food-Sites/HACCP.py">
+    <entry file="file://$PROJECT_DIR$/NS_search/naver_site.py" />
+    <entry file="file://$PROJECT_DIR$/company_info/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NS_search/naver_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

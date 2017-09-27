@@ -85,7 +85,10 @@ def json_link(d):
 
 start = (1, 101, 201, 301, 401, 501, 601, 701, 801, 901, 1000)
 for i in start:
-    search(encText, str(i))
+    try:
+        search(encText, str(i))
+    except:
+        print("검색 결과가 없습니다")
+        quit()
 print(search_word + "에 대한 네이버 쇼핑 검색결과 입니다")
-
 os.system("open -a 'Microsoft Excel.app' '%s'" %file_path)

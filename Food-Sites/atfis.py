@@ -18,30 +18,31 @@ driver.implicitly_wait(3)
 html = driver.page_source
 soup = BeautifulSoup(html, 'html.parser')
 lists = soup.find_all("table", {"class": "table_view2"})
+try:
+    tbody = lists[0].find("tbody")
+    tablerow = tbody.find_all("tr")
 
-tbody = lists[0].find("tbody")
-tablerow = tbody.find_all("tr")
+    sbody = lists[1].find("tbody")
+    stablerow = sbody.find_all("tr")
 
-sbody = lists[1].find("tbody")
-stablerow = sbody.find_all("tr")
+    data = []
 
-data = []
+    for t, s in zip(tablerow, stablerow):
+        td = t.find_all("td")
+        row = []
+        for r in td:
+            row.append(r.text.strip())
+        data.append(row)
 
-for t, s in zip(tablerow, stablerow):
-    td = t.find_all("td")
-    row = []
-    for r in td:
-        row.append(r.text.strip())
-    data.append(row)
-
-    # for s in stablerow:
-    sd = s.find_all("td")
-    srow = []
-    for y in sd:
-        srow.append(y.text.strip())
-    data.append(srow)
-    print(row[2] + ', 매출액: ' + srow[0] + ', 영업이익: ' + srow[1] + ', 순이익: ' + srow[2])
-
+        # for s in stablerow:
+        sd = s.find_all("td")
+        srow = []
+        for y in sd:
+            srow.append(y.text.strip())
+        data.append(srow)
+        print(row[2] + ', 매출액: ' + srow[0] + ', 영업이익: ' + srow[1] + ', 순이익: ' + srow[2])
+except:
+    print("검색 결과가 없습니다.")
 # data = lists[0].find_all("td", {"class": "ellipsis"})
 # dic = {}
 # for i in range(len(data)):

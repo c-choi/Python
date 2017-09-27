@@ -43,25 +43,26 @@ def run(p):
     if p != 2:
         driver.find_element_by_xpath('//*[@id="wrap"]/main/section/div[2]/div[2]/div/ul/li[' + str(p) + ']').click()
 
-    WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.XPATH, '/html/body/div[1]')))
+        WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.XPATH, '/html/body/div[1]')))
 
-    html = driver.page_source
-    soup = BeautifulSoup(html, 'html.parser')
-    table = soup.find("table", {"id": "board"})
-    # header = table.find("thead")
-    # headrow = header.find_all("th")
-    tbody = table.find("tbody", {"id": "listFrame"})
-    tablerow = tbody.find_all("tr")
+        html = driver.page_source
+        soup = BeautifulSoup(html, 'html.parser')
+        table = soup.find("table", {"id": "board"})
+        # header = table.find("thead")
+        # headrow = header.find_all("th")
+        tbody = table.find("tbody", {"id": "listFrame"})
+        tablerow = tbody.find_all("tr")
 
-    data = []
+        data = []
 
-    for t in tablerow:
-        td = t.find_all("td")
-        row = []
-        for r in td:
-            row.append(r.text)
-        data.append(row)
-        print(row[2])
+        for t in tablerow:
+            td = t.find_all("td")
+            row = []
+            for r in td:
+                row.append(r.text)
+            data.append(row)
+            print(row[2])
+
 # 업체 전체 정보
 # if data:
 #     pprint(data)

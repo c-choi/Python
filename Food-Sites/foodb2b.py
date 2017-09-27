@@ -58,7 +58,7 @@ def crawl(url):
                 data.append(a)
         # print(data)
         csv_data.append(data)
-    print(csv_data)
+    # print(csv_data)
     write_csv(csv_data)
 
 
