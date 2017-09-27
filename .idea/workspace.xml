@@ -4,12 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7708f8d-abcb-4f5a-b9e1-86609c8b92f9" name="Default" comment="upgraded HACCP &amp; arfis&#10;&#10;TODO 추가">
+    <list default="true" id="a7708f8d-abcb-4f5a-b9e1-86609c8b92f9" name="Default" comment="Integration">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Food-Sites/HACCP.py" afterPath="$PROJECT_DIR$/Food-Sites/HACCP.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Food-Sites/atfis.py" afterPath="$PROJECT_DIR$/Food-Sites/atfis.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Food-Sites/foodb2b.py" afterPath="$PROJECT_DIR$/Food-Sites/foodb2b.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NS_search/naver_shoping.py" afterPath="$PROJECT_DIR$/NS_search/naver_shoping.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -555,7 +551,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505466238720</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Integration">
+      <created>1506486662498</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1506486662498</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -661,7 +664,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upgraded HACCP &amp; arfis" />
     <MESSAGE value="upgraded HACCP &amp; arfis&#10;&#10;TODO 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="upgraded HACCP &amp; arfis&#10;&#10;TODO 추가" />
+    <MESSAGE value="Integration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integration" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
