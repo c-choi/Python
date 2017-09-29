@@ -4,7 +4,333 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7708f8d-abcb-4f5a-b9e1-86609c8b92f9" name="Default" comment="Integration">
+    <list default="true" id="a7708f8d-abcb-4f5a-b9e1-86609c8b92f9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/HACCP.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-08-31/2017-08-31.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-08-31/2017-08-31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-01/2017-09-01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-04/2017-09-04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-07/놀부.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-07/새롬식품.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-07/새롬푸드.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-07/순살치킨.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-07/어묵.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-07/오뎅.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-07/인천 어묵.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-07/인천 오뎅.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-07/혼합조미.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-08/순살치킨.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-08/유황오리.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-08/전 부침개.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-08/전류.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-12/신성 농축.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-12/신성 소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-12/신성 우골.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-12/신성 조미.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-12/신성 조미료.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-12/신성 티엔에프.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-15/정풍.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-18/순대.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-21/.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-21/다진육.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-21/다짐육.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-21/설비.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/NBG/2017-09-21/주방설비.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/atfis.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/foodb2b.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/foodmerce.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/ghostdriver.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/multiSelenium.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Food-Sites/pyteaser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/2017-09-04/도시락 용기 제조 업체_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/2017-09-04/워킹웨어 업체 _webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/2017-09-04/워킹웨어 업체_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/2017-09-04/파우치류 제조 업체_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/2017-09-04/포장지류 제조 업체_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/2017-09-04/프랜차이즈 유니폼 제작_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/foodcommerce.com.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/list.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/간장 마늘 소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/간장 마늘 소스/간장 마늘 소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/간장흑마늘소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/간장흑마늘소스/간장흑마늘소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/갈릭칠리소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/갈릭칠리소스/갈릭칠리소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/감자파우더/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/감자파우더/감자파우더.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/강된장소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/강된장소스/강된장소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/골뱅이 무침 소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/골뱅이 무침 소스/골뱅이 무침 소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/굴국밥 육수.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/굴국밥 육수/굴국밥 육수.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/굴국밥.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/굴국밥/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/굴국밥/굴국밥.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/김말이양념/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/김말이양념/김말이양념.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/김밥양념/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/김밥양념/김밥양념.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/김치육수 베이스.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/김치육수 베이스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/김치육수 베이스/김치육수 베이스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/깐풍기소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/깐풍기소스/깐풍기소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/누룽지탕베이스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/누룽지탕베이스/누룽지탕베이스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/달콤강정소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/달콤강정소스/달콤강정소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/돈스테이크 소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/돈스테이크 소스/돈스테이크 소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/된장엑기스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/된장엑기스/된장엑기스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/떡볶이파우더/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/떡볶이파우더/떡볶이파우더.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/마늘 소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/마늘 소스/마늘 소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/매운 양념 치킨 소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/매운 양념 치킨 소스/매운 양념 치킨 소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/매운맛갈비소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/매운맛갈비소스/매운맛갈비소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/매운파스타소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/매운파스타소스/매운파스타소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/매콤강정소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/매콤강정소스/매콤강정소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/매콤양념소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/매콤양념소스/매콤양념소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/배퓨레/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/배퓨레/배퓨레.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/보쌈엑기스.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/보쌈엑기스/보쌈엑기스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/사골설렁탕 베이스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/사골설렁탕 베이스/사골설렁탕 베이스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/사과퓨레/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/사과퓨레/사과퓨레.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/사천 소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/사천 소스/사천 소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/새콤 마늘 소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/새콤 마늘 소스/새콤 마늘 소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/설농탕엑기스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/설농탕엑기스/설농탕엑기스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/순대국육수베이스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/순대국육수베이스/순대국육수베이스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/시치미/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/시치미/시치미.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/야채육수베이스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/야채육수베이스/야채육수베이스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/얼큰한 맛 소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/얼큰한 맛 소스/얼큰한 맛 소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/오징어덮밥소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/오징어덮밥소스/오징어덮밥소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/우동소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/우동소스/우동소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/유린기 소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/유린기 소스/유린기 소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/쫄면양념장/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/쫄면양념장/쫄면양념장.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/찜닭용소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/찜닭용소스/찜닭용소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/참깨드레싱/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/참깨드레싱/참깨드레싱.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/찹쌀파우더/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/찹쌀파우더/찹쌀파우더.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치자황색소/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치자황색소/치자황색소.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨 파우더/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨 파우더/치킨 파우더.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨겨자소스(파닭용)/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨겨자소스(파닭용)/치킨겨자소스(파닭용).csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨데리소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨데리소스/치킨데리소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨마늘드레싱소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨마늘드레싱소스/치킨마늘드레싱소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨매운맛양념소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨매운맛양념소스/치킨매운맛양념소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨숯불바베큐소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨숯불바베큐소스/치킨숯불바베큐소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨양념소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨양념소스/치킨양념소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨파닭드레싱소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/치킨파닭드레싱소스/치킨파닭드레싱소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/튀김간장소스.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/튀김간장소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/튀김간장소스/튀김간장소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/파우더 (크리스피치킨)/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/파우더 (크리스피치킨)/파우더 (크리스피치킨).csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/폭립소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/폭립소스/폭립소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/함박스테이크소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/함박스테이크소스/함박스테이크소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/핫파우더/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/핫파우더/핫파우더.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/해물육수베이스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/해물육수베이스/해물육수베이스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/허니 맛 소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/허니 맛 소스/허니 맛 소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/흑마늘 소스 간장.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/흑마늘 소스 간장/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/흑마늘 소스 간장/흑마늘 소스 간장.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/흑마늘소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-08-31/흑마늘소스/흑마늘소스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/베이크드 빈즈 .xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/베이크드 빈즈 /queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/베이크드 빈즈 /베이크드 빈즈 .csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/워킹웨어.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/워킹웨어/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/워킹웨어/워킹웨어.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/캠벨 베이크드빈스.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/캠벨 베이크드빈스/캠벨 베이크드빈스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/캠벨 빈스.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/캠벨 빈스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/캠벨 빈스/캠벨 빈스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/켐벨 베이크드 빈스.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/2017-09-04/켐벨 베이크드 빈스/켐벨 베이크드 빈스.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/고춧가루 생산/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NBG/고춧가루 업체/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NSList_Search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/NShop.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/N_search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/도시락 용기 제조 업체/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/워킹웨어 업체 /queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/워킹웨어 업체/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/파우치류 제조 업체/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/포장지류 제조 업체/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_list_search/프랜차이즈 유니폼 제작/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-21/aa_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-21/aa_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-21/it버블_doc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-21/it버블_encyc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-21/it버블_kin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-21/it버블_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-21/it버블_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-21/스타트업_doc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-21/스타트업_kin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-21/진캐주얼_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-21/하하하_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-24/a/a.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-24/a_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-24/api/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-24/api_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-24/현아/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-24/현아_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-24/현아_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-25/데님/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-25/데님/데님_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-25/데님_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-25/청바지/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-25/청바지/청바지_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-25/청바지_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-29/버켄스탁/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-07-29/버켄스탁/버켄스탁_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루 생산_doc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루 생산_encyc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루 생산_kin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루 생산_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루 생산_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루 업체_doc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루 업체_encyc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루 업체_kin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루 업체_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루 업체_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루/고춧가루_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-28/고춧가루_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-31/간장흑마늘소스/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-31/간장흑마늘소스/간장흑마늘소스_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-08-31/간장흑마늘소스_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/실링기 비닐/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/실링기 비닐/실링기 비닐_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/실링기 비닐_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/실링기비닐/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/실링기비닐/실링기비닐_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/실링기비닐_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/앞치마/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/앞치마/앞치마_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/앞치마_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/오뎅/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/오뎅/오뎅_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/오뎅_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/워킹웨어/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/워킹웨어/워킹웨어_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/워킹웨어_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/유황오리/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/유황오리/유황오리_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/유황오리_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/인천 오뎅 제조사_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/인천어묵_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/인천어묵공장_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/인천오뎅/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/인천오뎅/인천오뎅_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-04/인천오뎅_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-06/캠벨 청천_doc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-06/캠벨 청천_encyc.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-06/캠벨 청천_kin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-06/캠벨 청천_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-06/캠벨 청천_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/다짐육/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/다짐육/다짐육_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/다짐육_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/대패삼겹/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/대패삼겹/대패삼겹_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/대패삼겹_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/대패우삼겹/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/대패우삼겹/대패우삼겹_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/대패우삼겹_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/우대패삼겹_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/주방설비/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/주방설비/주방설비_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-21/주방설비_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-22/매장잡화/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-22/매장잡화/매장잡화_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-22/매장잡화_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-22/주방 설비/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-22/주방 설비/주방 설비_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-22/주방 설비_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-26/쇼핑백/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-26/쇼핑백/쇼핑백_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-26/쇼핑백_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-26/자동쇼핑백/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-26/자동쇼핑백/자동쇼핑백_shop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/2017-09-26/자동쇼핑백_shop.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/naver_search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/naver_shoping.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/개별 파일/2017-07-24/api/api.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/개별 파일/2017-07-24/api_webkr.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/개별 파일/2017-07-24/park/park.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/개별 파일/2017-07-24/park_news.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/개별 파일/json_link.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/개별 파일/naver_search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/개별 파일/naver_webkr.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/인천 오뎅 제조사/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/인천어묵공장/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NS_search/캠벨 청천/queue.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/company_info/NBG/2017-08-31/2017-08-31.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/company_info/NBG/2017-08-31/2017-08-31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/company_info/NBG/2017-09-01.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/company_info/NBG/2017-09-01/2017-09-01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/company_info/geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/company_info/ghostdriver.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/company_info/login.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/company_info/pyteaser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/config_template.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/email_template1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/email_template10.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/email_template2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/email_template7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/email_template8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/email_template9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/gmail_config_example.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/send_log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/sendmail.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/tnatla/email_template3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/tnatla/email_template4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/tnatla/email_template5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail-sender-master/tnatla/email_template6.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -17,83 +343,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="foodb2b.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Food-Sites/foodb2b.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="57" column="14" lean-forward="false" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="naver_shoping.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NS_search/naver_shoping.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="naver_search.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NS_search/naver_search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="5175">
+              <caret line="345" column="16" lean-forward="false" selection-start-line="345" selection-start-column="16" selection-end-line="345" selection-end-column="16" />
               <folding>
-                <marker date="1506493351000" expanded="true" signature="91266:91283" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="91266:91301" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="91266:91314" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="91266:92145" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="91381:91722" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="91443:91709" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="91488:91691" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="91788:92130" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="91850:92117" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="91896:92099" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="92180:92535" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="92193:92520" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="92241:92506" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="92260:92491" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="92293:92471" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="92333:92437" ph="..." />
-                <marker date="1506493351000" expanded="true" signature="92354:92415" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="atfis.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Food-Sites/atfis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HACCP.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Food-Sites/HACCP.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#39030#39036#0" expanded="true" />
+                <element signature="e#39037#39043#0" expanded="true" />
+                <element signature="e#39990#39996#0" expanded="true" />
+                <element signature="e#40030#40036#0" expanded="true" />
+                <element signature="e#40070#40076#0" expanded="true" />
+                <element signature="e#40107#40113#0" expanded="true" />
+                <element signature="e#40144#40150#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -213,8 +475,8 @@
         <option value="$PROJECT_DIR$/NS_search/naver_shoping.py" />
         <option value="$PROJECT_DIR$/Food-Sites/HACCP.py" />
         <option value="$PROJECT_DIR$/NS_search/naver_site.py" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/NS_search/naver_search.py" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -262,33 +524,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="company_info" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Food-Sites" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="NS_search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="NS_search" type="462c0819:PsiDirectoryNode" />
-              <item name="2017-09-21" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
@@ -309,24 +562,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/cloudy/Desktop/programming/Python/Food-Sites/atfis.py" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/CompanySearch/NShop.py" />
   </component>
@@ -601,7 +842,14 @@
       <option name="project" value="LOCAL" />
       <updated>1506487093810</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Integration">
+      <created>1506493368328</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1506493368328</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -627,10 +875,10 @@
   <component name="ToolWindowManager">
     <frame x="838" y="23" width="838" height="1027" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44095477" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46356785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32673267" sideWeight="0.4849246" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.629397" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.37060302" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.6369347" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.36306533" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33223322" sideWeight="0.2964824" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33223322" sideWeight="0.7035176" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1011,9 +1259,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,9 +1267,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1043,45 +1287,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/NS_search/naver_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-          <folding>
-            <marker date="1506493351000" expanded="true" signature="91266:91283" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="91266:91301" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="91266:91314" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="91266:92145" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="91381:91722" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="91443:91709" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="91488:91691" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="91788:92130" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="91850:92117" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="91896:92099" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="92180:92535" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="92193:92520" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="92241:92506" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="92260:92491" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="92293:92471" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="92333:92437" ph="..." />
-            <marker date="1506493351000" expanded="true" signature="92354:92415" ph="..." />
-          </folding>
+        <state relative-caret-position="271">
+          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NS_search/naver_shoping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NS_search/naver_search.py">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="5175">
+          <caret line="345" column="16" lean-forward="false" selection-start-line="345" selection-start-column="16" selection-end-line="345" selection-end-column="16" />
+          <folding>
+            <element signature="e#39030#39036#0" expanded="true" />
+            <element signature="e#39037#39043#0" expanded="true" />
+            <element signature="e#39990#39996#0" expanded="true" />
+            <element signature="e#40030#40036#0" expanded="true" />
+            <element signature="e#40070#40076#0" expanded="true" />
+            <element signature="e#40107#40113#0" expanded="true" />
+            <element signature="e#40144#40150#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
