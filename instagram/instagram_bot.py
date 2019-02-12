@@ -21,6 +21,8 @@ args = parser.parse_args()
 bot = Bot()
 bot.login(username=args.u, password=args.p,
           proxy=args.proxy)
-bot.unfollow_non_followers()
-bot.like_timeline()
-bot.block_bots()
+# bot.unfollow_non_followers()
+# bot.like_timeline()
+# bot.block_bots()
+
+bot.download_photos_by_hashtag.py
